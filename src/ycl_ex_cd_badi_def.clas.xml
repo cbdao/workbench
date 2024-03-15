@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>YCL_EX_CD_BADI_DEF</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>BAdI class YCL_EX_CD_BADI_DEF</DESCRIPT>
+    <CATEGORY>01</CATEGORY>
+    <STATE>1</STATE>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_EX_CD_BADI_DEF</CLSNAME>
+     <CMPNAME>STATIC_BADI_TABLE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Static Attribute STATIC_BADI_TABLE of Class YCL_EX_CD_BADI_D</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_EX_CD_BADI_DEF</CLSNAME>
+     <CMPNAME>STATIC_FLT_CACHE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Static Attribute STATIC_FLT_CACHE of Class YCL_EX_CD_BADI_DE</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_EX_CD_BADI_DEF</CLSNAME>
+     <CMPNAME>VERSION</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Version Indicator for Generator</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

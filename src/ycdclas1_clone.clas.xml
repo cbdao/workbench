@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>YCDCLAS1_CLONE</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>christina&apos;s class 1</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>YCDCLAS1_CLONE</CLSNAME>
+     <CMPNAME>CL1_ATTR1</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Customer Number 1</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCDCLAS1_CLONE</CLSNAME>
+     <CMPNAME>CL1_PRO_ATTR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Cdao&apos;s data element char10</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCDCLAS1_CLONE</CLSNAME>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>CONSTRUCTOR</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

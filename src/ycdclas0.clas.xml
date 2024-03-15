@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>YCDCLAS0</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Christina&apos;s CLASS0</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>YCDCLAS0</CLSNAME>
+     <CMPNAME>CL0_ATTR1</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Cdao&apos;s data element char10</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCDCLAS0</CLSNAME>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>superclass constructor</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCDCLAS0</CLSNAME>
+     <CMPNAME>INT_TYP1</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Customer Number 1</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCDCLAS0</CLSNAME>
+     <CMPNAME>PRO_INSTANCE_METH</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>protected instance method</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCDCLAS0</CLSNAME>
+     <CMPNAME>PUB_STATIC_METH1</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>public static method</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

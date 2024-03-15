@@ -1,0 +1,20 @@
+*&---------------------------------------------------------------------*
+*&  Include           YCDMAINTOP                                       *
+*&---------------------------------------------------------------------*
+PROGRAM YCDMAINPROG MESSAGE-ID /ICORP/ZH.
+
+TABLES: YCDORDERS,
+        YCDITEMS,
+        YCDMATPRICE,
+        YCDMAT.
+
+DATA:  GT_ITEMS LIKE YCDITEMS OCCURS 0 WITH HEADER LINE.
+
+DATA: FNAME TYPE FIELDNAME,
+      FVAL  TYPE MATNR,
+      test,
+      PREV_DYNP LIKE SY-DYNNR,
+      RC    LIKE SY-SUBRC,
+* Tracks the current line in a loop on the screen
+  CONTENT_DISPLAY LIKE SY-INDEX.
+FIELD-SYMBOLS: <MATNUM>.

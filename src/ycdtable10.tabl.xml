@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_TABL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD02V>
+    <TABNAME>YCDTABLE10</TABNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <TABCLASS>TRANSP</TABCLASS>
+    <DDTEXT>Table with exact 10-char in name</DDTEXT>
+    <CONTFLAG>C</CONTFLAG>
+   </DD02V>
+   <DD09L>
+    <TABNAME>YCDTABLE10</TABNAME>
+    <AS4LOCAL>A</AS4LOCAL>
+    <TABKAT>0</TABKAT>
+    <TABART>APPL0</TABART>
+    <BUFALLOW>N</BUFALLOW>
+   </DD09L>
+   <DD03P_TABLE>
+    <DD03P>
+     <FIELDNAME>KEY1</FIELDNAME>
+     <KEYFLAG>X</KEYFLAG>
+     <ROLLNAME>YCDDETL_CHAR10</ROLLNAME>
+     <ADMINFIELD>0</ADMINFIELD>
+     <NOTNULL>X</NOTNULL>
+     <COMPTYPE>E</COMPTYPE>
+    </DD03P>
+    <DD03P>
+     <FIELDNAME>DATE_FIELD</FIELDNAME>
+     <ROLLNAME>DATUM</ROLLNAME>
+     <ADMINFIELD>0</ADMINFIELD>
+     <SHLPORIGIN>T</SHLPORIGIN>
+     <COMPTYPE>E</COMPTYPE>
+    </DD03P>
+   </DD03P_TABLE>
+   <DD12V>
+    <DD12V>
+     <SQLTAB>YCDTABLE10</SQLTAB>
+     <INDEXNAME>I10</INDEXNAME>
+     <AS4LOCAL>A</AS4LOCAL>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DBINDEX>YCDTABLE10~I10</DBINDEX>
+     <DDTEXT>Index for YCDTABLE10</DDTEXT>
+    </DD12V>
+   </DD12V>
+   <DD17V>
+    <DD17V>
+     <SQLTAB>YCDTABLE10</SQLTAB>
+     <INDEXNAME>I10</INDEXNAME>
+     <POSITION>0001</POSITION>
+     <AS4LOCAL>A</AS4LOCAL>
+     <FIELDNAME>DATE_FIELD</FIELDNAME>
+    </DD17V>
+   </DD17V>
+  </asx:values>
+ </asx:abap>
+</abapGit>

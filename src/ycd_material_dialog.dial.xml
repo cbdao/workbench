@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DIAL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DIAL>
+    <TDCT>
+     <DNAM>YCD_MATERIAL_DIALOG</DNAM>
+     <PROG>YCDMATPROG</PROG>
+     <DYNR>0101</DYNR>
+    </TDCT>
+    <DIA_PARS>
+     <DIAPAR>
+      <DNAM>YCD_MATERIAL_DIALOG</DNAM>
+      <SPRAS>E</SPRAS>
+      <PARAMTEXT>MATERIAL MAINTENANCE DIALOG</PARAMTEXT>
+     </DIAPAR>
+     <DIAPAR>
+      <DNAM>YCD_MATERIAL_DIALOG</DNAM>
+      <PARAMETER>MATNUM</PARAMETER>
+      <SPRAS>E</SPRAS>
+      <PARAMCLASS>P</PARAMCLASS>
+      <IMPO_EXPO>I</IMPO_EXPO>
+     </DIAPAR>
+     <DIAPAR>
+      <DNAM>YCD_MATERIAL_DIALOG</DNAM>
+      <PARAMETER>O_MATDESC</PARAMETER>
+      <SPRAS>E</SPRAS>
+      <PARAMCLASS>P</PARAMCLASS>
+      <IMPO_EXPO>E</IMPO_EXPO>
+     </DIAPAR>
+    </DIA_PARS>
+   </DIAL>
+  </asx:values>
+ </asx:abap>
+</abapGit>

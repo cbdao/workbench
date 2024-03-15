@@ -1,0 +1,4 @@
+FUNCTION-POOL YCDFUGR1.                     "MESSAGE-ID ..
+
+DATA:   G_AREA    LIKE TSL1D-AREA,
+        G_SUBID   LIKE TSL1D-SUBID.
